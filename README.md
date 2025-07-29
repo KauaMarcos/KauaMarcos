@@ -1,4 +1,7 @@
-<h2 align="left">Olá, Eu sou Kauã Marcos</h2>
+<h1 align="left">Olá, Eu sou Kauã Marcos</h1>
+<h2 allign="left">-💻Estou estudando Python
+- 📚Faço alguns projetos</h2>
+
 
 ###
 
