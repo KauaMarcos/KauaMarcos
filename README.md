@@ -30,9 +30,7 @@
   <a href="https://www.linkedin.com/in/kauã-marcos-1851b7279/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
- <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#107;&#46;&#98;&#114;&#97;&#110;&#99;&#111;&#109;&#101;&#108;&#108;&#111;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
+
   
 </div>
 
