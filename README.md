@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá, Eu sou Kauã Marcos Branco Mello</h1>
-<h3 align="center">Programo usando Linguagem Python</h3>
+<h3 align="center">Eu programo usando Linguagem Python</h3>
 
 - 💻Estou estudando Python
 - 📚Faço alguns projetos
