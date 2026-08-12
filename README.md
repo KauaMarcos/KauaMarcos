@@ -5,10 +5,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=KauaMarcos&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true" height="130" alt="stats graph" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=KauaMarcos&layout=compact&theme=city_lights&langs_count=5&count_private=true" height="130" alt="languages graph" />
-</div>
 
 
 
